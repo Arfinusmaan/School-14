@@ -14,7 +14,7 @@ const tiles = [
     id: 'academics',
     title: 'Academics',
     icon: BookOpen,
-    image: 'https://images.pexels.com/photos/159775/library-book-bookshelf-read-159775.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/1454360/pexels-photo-1454360.jpeg?auto=compress&cs=tinysrgb&w=400',
     description: 'Programs & curriculum'
   },
   {
@@ -42,7 +42,7 @@ const tiles = [
     id: 'achievements',
     title: 'Achievements',
     icon: Trophy,
-    image: 'https://images.pexels.com/photos/1153213/pexels-photo-1153213.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/5212317/pexels-photo-5212317.jpeg?auto=compress&cs=tinysrgb&w=200',
     description: 'Awards & recognition'
   },
   {
